@@ -5,9 +5,9 @@ authors = ["Wackyator <pratapsinghtarun9@gmail.com>"]
 edition = "2018"
 description = "A simple API wrapper for CoffeeHouse API"
 readme = "./README.md"
-homepage = "https://github.com/wackyator"
+homepage = "https://github.com/Wackyator"
 documentation = "https://github.com/intellivoid"
-repository = ""
+repository = "https://github.com/Wackyator"
 license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
